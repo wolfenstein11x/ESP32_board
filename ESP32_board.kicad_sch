@@ -5007,6 +5007,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 138.43) (xy 170.815 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b707ea1b-1612-49a5-89bc-9e1791d0e97b")
+	)
+	(wire
+		(pts
 			(xy 95.25 67.31) (xy 95.25 50.8)
 		)
 		(stroke
@@ -5014,6 +5024,16 @@
 			(type default)
 		)
 		(uuid "b86fd3f2-cdeb-49fd-bad7-83d0d6b3f014")
+	)
+	(wire
+		(pts
+			(xy 166.37 143.51) (xy 170.815 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb836fb2-282c-42fe-98e7-1a600b64f886")
 	)
 	(wire
 		(pts
@@ -5287,6 +5307,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 132.08) (xy 170.815 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaa4d1f4-227e-47d1-b6ef-0d748f2115f2")
+	)
+	(wire
+		(pts
 			(xy 52.07 170.18) (xy 59.69 170.18)
 		)
 		(stroke
@@ -5354,6 +5384,16 @@
 			(justify right bottom)
 		)
 		(uuid "046d65b2-07e1-4e39-a53d-080e3d1256b4")
+	)
+	(label "USB_DN"
+		(at 166.37 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2478defa-72ea-4714-9e15-e7176b87da4b")
 	)
 	(label "+5V_USB"
 		(at 246.38 52.07 0)
@@ -5464,6 +5504,26 @@
 			(justify left bottom)
 		)
 		(uuid "a939dbc0-7110-4d89-8107-fee75e4b46fc")
+	)
+	(label "USB_DP"
+		(at 166.37 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b4bda34e-9b1e-47aa-95fe-325810e8b439")
+	)
+	(label "VBUS"
+		(at 166.37 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b821fa39-0cc3-44fb-8aef-d790e824e8a6")
 	)
 	(label "PWR_LED"
 		(at 123.19 173.99 0)
@@ -10395,7 +10455,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0)
+			(color 0 0 255 0.4588235294)
 		)
 		(uuid "852fbd06-88eb-455e-a8d4-37cda7c93bb6")
 		(property "Sheetname" "ESP32-C3-02"
@@ -10418,6 +10478,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "USB_DN" input
+			(at 170.815 132.08 180)
+			(uuid "b1b03260-2b3d-4c90-9832-e28773dfb23c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" input
+			(at 170.815 138.43 180)
+			(uuid "d065ae9f-a437-435f-98a3-4747f4f8b352")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS" input
+			(at 170.815 143.51 180)
+			(uuid "1404871d-67b9-4a3e-bf31-d1cfcc7c6862")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
