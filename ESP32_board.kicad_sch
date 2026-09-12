@@ -10455,7 +10455,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 255 0.4588235294)
+			(color 0 0 255 0.5019607843)
 		)
 		(uuid "852fbd06-88eb-455e-a8d4-37cda7c93bb6")
 		(property "Sheetname" "ESP32-C3-02"

@@ -416,7 +416,7 @@
         "uuid": "f855f820-f2bc-4b92-b97f-8d70c266fcab"
       }
     ],
-    "used_designators": "R11-12,R14-17,J3,U2-5,#PWR20-36,LED5-6,C7,C12-14",
+    "used_designators": "R11-12,R14-17,R21,R25-26,R28,R32,J3,U2-5,U7,#PWR20-52,LED5-6,C7,C12-16,C19,C21,MK1,TP1-5,Q1",
     "variants": []
   },
   "sheets": [
@@ -427,6 +427,14 @@
     [
       "852fbd06-88eb-455e-a8d4-37cda7c93bb6",
       "ESP32-C3-02"
+    ],
+    [
+      "d451257b-da7d-48ce-8332-2cb266e0fc5e",
+      "Sensors"
+    ],
+    [
+      "7eace360-6f82-40c1-9dbc-bdb40391329c",
+      "User Interface"
     ]
   ],
   "text_variables": {},
