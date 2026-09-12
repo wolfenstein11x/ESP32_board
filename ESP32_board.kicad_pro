@@ -416,13 +416,17 @@
         "uuid": "f855f820-f2bc-4b92-b97f-8d70c266fcab"
       }
     ],
-    "used_designators": "F1,C1-2,#PWR8-10,#FLG1",
+    "used_designators": "F1,LED4,C1-5,#PWR8-19,R10,#FLG1-2",
     "variants": []
   },
   "sheets": [
     [
       "f855f820-f2bc-4b92-b97f-8d70c266fcab",
       "Root"
+    ],
+    [
+      "852fbd06-88eb-455e-a8d4-37cda7c93bb6",
+      "ESP32-C3-02"
     ]
   ],
   "text_variables": {},
