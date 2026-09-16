@@ -3204,7 +3204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "ESP32_project_Footprints:SW_USLPT2819DT2TR"
 			(at 219.71 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3240,30 +3240,6 @@
 			)
 		)
 		(property "MF" "TE Connectivity"
-			(at 219.71 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 219.71 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 219.71 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3324,18 +3300,6 @@
 			)
 		)
 		(property "MP" "USLPT2819DT2TR"
-			(at 219.71 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 219.71 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4457,7 +4421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "ESP32_project_Footprints:SW_USLPT2819DT2TR"
 			(at 143.51 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4493,30 +4457,6 @@
 			)
 		)
 		(property "MF" "TE Connectivity"
-			(at 143.51 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 143.51 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 143.51 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4577,18 +4517,6 @@
 			)
 		)
 		(property "MP" "USLPT2819DT2TR"
-			(at 143.51 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 143.51 62.23 0)
 			(hide yes)
 			(show_name no)

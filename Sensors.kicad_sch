@@ -3254,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TEMT6000X01:TRANS_TEMT6000X01"
+		(property "Footprint" "ESP32_project_Footprints:TRANS_TEMT6000X01"
 			(at 189.23 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3290,30 +3290,6 @@
 			)
 		)
 		(property "MF" "Vishay Semiconductor"
-			(at 189.23 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 Vishay"
-			(at 189.23 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 189.23 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3374,18 +3350,6 @@
 			)
 		)
 		(property "MP" "TEMT6000X01"
-			(at 189.23 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 189.23 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4314,7 +4278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CMC-5042PF-AC:CUI_CMC-5042PF-AC"
+		(property "Footprint" "ESP32_project_Footprints:CUI_CMC-5042PF-AC"
 			(at 142.24 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -4350,30 +4314,6 @@
 			)
 		)
 		(property "MF" "Same Sky"
-			(at 142.24 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 142.24 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 142.24 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -4433,7 +4373,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Availability" "In Stock"
+		(property "MANUFACTURER" "CUI INC"
 			(at 142.24 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -4445,16 +4385,14 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "CUI INC"
+		(property "Purpose" ""
 			(at 142.24 125.73 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 			)
 		)
 		(pin "GND"
@@ -5245,7 +5183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MAX4466EXK:SOT65P210X110-5N"
+		(property "Footprint" "ESP32_project_Footprints:SOT65P210X110-5N"
 			(at 226.06 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5292,30 +5230,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "SC-70-5 Maxim"
-			(at 226.06 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 226.06 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MAX4466EXK/Analog+Devices/view-part/?ref=snap"
 			(at 226.06 121.92 0)
 			(hide yes)
@@ -5329,18 +5243,6 @@
 			)
 		)
 		(property "MP" "MAX4466EXK"
-			(at 226.06 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 226.06 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5837,7 +5739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BME280:PSON65P250X250X100-8N"
+		(property "Footprint" "ESP32_project_Footprints:PSON65P250X250X100-8N"
 			(at 76.2 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -5908,18 +5810,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "LGA-8 Bosch"
-			(at 76.2 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
 		(property "Check_prices" "https://www.snapeda.com/parts/BME280/Bosch+Sensortec/view-part/?ref=eda"
 			(at 76.2 57.15 0)
 			(hide yes)
@@ -5957,30 +5847,6 @@
 			)
 		)
 		(property "MP" "BME280"
-			(at 76.2 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 76.2 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 76.2 57.15 0)
 			(hide yes)
 			(show_name no)

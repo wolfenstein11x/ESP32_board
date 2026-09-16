@@ -6311,7 +6311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "B2B-PH-SM4-TB:JST_B2B-PH-SM4-TB"
+		(property "Footprint" "ESP32_project_Footprints:JST_B2B-PH-SM4-TB"
 			(at 46.99 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6359,30 +6359,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "6.6 mm"
-			(at 46.99 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "NON STANDARD-2 JST"
-			(at 46.99 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 46.99 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6443,18 +6419,6 @@
 			)
 		)
 		(property "MP" "B2B-PH-SM4-TB"
-			(at 46.99 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 46.99 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7606,7 +7570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SS-52400-002:BELFUSE_SS-52400-002"
+		(property "Footprint" "ESP32_project_Footprints:BELFUSE_SS-52400-002"
 			(at 58.42 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7654,30 +7618,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "2.96 mm"
-			(at 58.42 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 58.42 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 58.42 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7738,18 +7678,6 @@
 			)
 		)
 		(property "MP" "SS-52400-002"
-			(at 58.42 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 58.42 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9311,7 +9239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LM1117MPX-3.3:VREG_LM1117MPX-3.3"
+		(property "Footprint" "ESP32_project_Footprints:VREG_LM1117MPX-3.3"
 			(at 63.5 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -9382,31 +9310,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "SOT-223-4 ON Semiconductor"
-			(at 63.5 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
 		(property "Check_prices" "https://www.snapeda.com/parts/LM1117MPX-33NOPB/Onsemi/view-part/?ref=eda"
-			(at 63.5 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
 			(at 63.5 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -9431,18 +9335,6 @@
 			)
 		)
 		(property "MP" "LM1117MPX-33NOPB"
-			(at 63.5 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
 			(at 63.5 123.19 0)
 			(hide yes)
 			(show_name no)
