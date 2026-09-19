@@ -5557,6 +5557,16 @@
 		)
 		(uuid "84a4f225-b7ce-46a7-8135-4d542294efda")
 	)
+	(label "CC1"
+		(at 25.4 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "962a6fd3-674e-4ca7-9b86-75cc01f09932")
+	)
 	(label "CHARGING"
 		(at 191.77 62.23 0)
 		(effects
@@ -5606,6 +5616,16 @@
 			(justify left bottom)
 		)
 		(uuid "c22fd7de-8bd4-48a3-b68e-ac30f582f9af")
+	)
+	(label "CC2"
+		(at 83.82 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c6368322-909c-4d2d-945e-5d6e7d9207c3")
 	)
 	(label "THERM"
 		(at 246.38 62.23 0)

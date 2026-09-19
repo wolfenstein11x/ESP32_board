@@ -4457,7 +4457,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 133.35) (xy 248.92 133.35)
+			(xy 254 129.54) (xy 255.27 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4507,6 +4507,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 133.35) (xy 252.73 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18c53190-2073-4d33-a3d0-1ec18ef81b53")
+	)
+	(wire
+		(pts
 			(xy 60.96 93.98) (xy 58.42 93.98)
 		)
 		(stroke
@@ -4547,7 +4557,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 133.35) (xy 236.22 133.35)
+			(xy 229.87 133.35) (xy 245.11 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5247,7 +5257,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 60.96) (xy 273.05 60.96)
+			(xy 273.05 60.96) (xy 274.32 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5537,7 +5547,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 60.96) (xy 260.35 60.96)
+			(xy 247.65 60.96) (xy 265.43 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5754,6 +5764,16 @@
 			(type default)
 		)
 		(uuid "dbabd590-6a00-4de4-bedf-6bb928bedd06")
+	)
+	(wire
+		(pts
+			(xy 254 129.54) (xy 254 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddf4a121-8e88-44a9-95c2-d5cc5387aae0")
 	)
 	(wire
 		(pts
@@ -6116,7 +6136,7 @@
 		(uuid "415ea79e-db4f-465b-a488-a3ea36ea3e8e")
 	)
 	(label "MOSI_DI"
-		(at 273.05 60.96 0)
+		(at 274.32 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6195,6 +6215,16 @@
 		)
 		(uuid "81127e90-45b1-4eec-bf34-41dbdc9edb27")
 	)
+	(label "SCLK_ESP32"
+		(at 199.39 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "82863804-84af-49b5-abd2-0bac84d7b67a")
+	)
 	(label "TX_RX"
 		(at 102.87 24.13 0)
 		(effects
@@ -6214,6 +6244,16 @@
 			(justify right bottom)
 		)
 		(uuid "8853d04d-8cec-4d93-a9bd-0a9837991b1f")
+	)
+	(label "MISO_DO_FLASH"
+		(at 46.99 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a06c001-b286-4a23-aec8-811f9d4af027")
 	)
 	(label "GPIO8"
 		(at 252.73 63.5 0)
@@ -6326,7 +6366,7 @@
 		(uuid "b8fa634b-700e-44be-a54c-ccf70a379452")
 	)
 	(label "MISO_DO"
-		(at 248.92 133.35 0)
+		(at 255.27 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6395,6 +6435,16 @@
 		)
 		(uuid "eedfa45c-a816-4b5b-9e6b-569fee183929")
 	)
+	(label "MOSI_DI_ESP32"
+		(at 248.92 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2c4ce16-9f8e-48c4-b818-0cb7479b8bea")
+	)
 	(label "SCL"
 		(at 207.01 68.58 180)
 		(effects
@@ -6404,6 +6454,16 @@
 			(justify right bottom)
 		)
 		(uuid "f4cec708-6597-4bda-9035-cc28968c7a33")
+	)
+	(label "MISO_DO_SD"
+		(at 231.14 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5abe63f-8a15-43fb-a33c-03978d278cc4")
 	)
 	(label "SCL"
 		(at 115.57 161.29 0)
@@ -8885,7 +8945,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 264.16 60.96 90)
+		(at 269.24 60.96 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8895,7 +8955,7 @@
 		(dnp no)
 		(uuid "b4bb3cef-d8d8-402b-9184-3165e3b19c15")
 		(property "Reference" "R15"
-			(at 264.16 58.42 90)
+			(at 269.24 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8905,7 +8965,7 @@
 			)
 		)
 		(property "Value" "50"
-			(at 264.16 63.754 90)
+			(at 269.24 63.754 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8915,7 +8975,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 264.16 62.738 90)
+			(at 269.24 62.738 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8926,7 +8986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 60.96 0)
+			(at 269.24 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8937,7 +8997,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 264.16 60.96 0)
+			(at 269.24 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8948,7 +9008,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 264.16 60.96 0)
+			(at 269.24 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9156,7 +9216,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 240.03 133.35 90)
+		(at 248.92 133.35 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9166,7 +9226,7 @@
 		(dnp no)
 		(uuid "bcec5ff5-dc0d-4444-a027-d03af0b6eaad")
 		(property "Reference" "R16"
-			(at 237.236 131.064 90)
+			(at 249.174 131.064 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9176,7 +9236,7 @@
 			)
 		)
 		(property "Value" "50"
-			(at 242.57 131.064 90)
+			(at 248.92 135.636 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9186,7 +9246,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 240.03 135.128 90)
+			(at 248.92 135.128 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9197,7 +9257,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 133.35 0)
+			(at 248.92 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9208,7 +9268,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 240.03 133.35 0)
+			(at 248.92 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9219,7 +9279,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 240.03 133.35 0)
+			(at 248.92 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

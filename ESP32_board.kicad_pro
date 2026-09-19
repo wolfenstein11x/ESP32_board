@@ -1046,7 +1046,7 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
@@ -1093,7 +1093,7 @@
         "uuid": "f855f820-f2bc-4b92-b97f-8d70c266fcab"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C17,C23",
     "variants": []
   },
   "sheets": [
