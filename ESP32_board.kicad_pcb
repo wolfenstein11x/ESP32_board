@@ -1453,13 +1453,13 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
 		(uuid "19185181-7787-4b98-a2c6-9a2a84804472")
-		(at 207.518 105.672)
+		(at 261.6708 111.35)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP5"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
-			(uuid "6313e423-c9e1-4758-b09e-561086b10c22")
+			(uuid "5ddec69c-c2d2-4737-bf5d-3c8da1f402fe")
 			(effects
 				(font
 					(size 1 1)
@@ -1470,7 +1470,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.55 0)
 			(layer "F.Fab")
-			(uuid "3e8fef01-9e77-4224-a3cc-c9eb3063d000")
+			(uuid "84706831-c23b-4512-ba7d-310de7949b04")
 			(effects
 				(font
 					(size 1 1)
@@ -1483,7 +1483,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d81a71b-8595-4962-a419-ca2772f422c6")
+			(uuid "adf57d4f-baa9-41a4-8623-856e6b50c9cc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1496,7 +1496,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1b214f6-224b-4433-9d39-1cac3e2f8795")
+			(uuid "a2e3c4c9-821f-4c03-9ee0-9ec6e770616d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,13 +5042,13 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
 		(uuid "45e4c1cf-81df-4b01-802d-b7411f1c4728")
-		(at 207.518 93.472)
+		(at 261.6708 99.15)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP1"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
-			(uuid "4add0cb6-e2b4-4dc9-933c-d610b15296ec")
+			(uuid "b9f2b404-2f3c-412d-a01d-df8e4832dc4c")
 			(effects
 				(font
 					(size 1 1)
@@ -5059,7 +5059,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.55 0)
 			(layer "F.Fab")
-			(uuid "b8cedaa8-42a8-4fe8-92a7-09f1daed0818")
+			(uuid "092fda0a-80d9-470e-a0d1-9a93a5c25016")
 			(effects
 				(font
 					(size 1 1)
@@ -5072,7 +5072,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e39a7457-07a3-45aa-8218-4c9101282ebd")
+			(uuid "5b010fa5-067c-436c-ac97-20324be1df15")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5085,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e4aa5459-d3b0-47d3-8c9d-6b3098080e36")
+			(uuid "553aa658-9d28-4dd3-bc69-0be644a27f0e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,13 +6118,13 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
 		(uuid "55716398-f720-497e-a206-d85edfaa5d4c")
-		(at 207.518 102.622)
+		(at 261.6708 108.3)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP4"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
-			(uuid "c3a217a8-a856-4774-8f95-8fd13153fd8d")
+			(uuid "74bc4722-dd88-47d8-a92b-c39269e091af")
 			(effects
 				(font
 					(size 1 1)
@@ -6135,7 +6135,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.55 0)
 			(layer "F.Fab")
-			(uuid "e597fc3e-d714-450b-8468-d31119c371f1")
+			(uuid "4feb3c75-1199-4be1-bd39-bb972cb49fd6")
 			(effects
 				(font
 					(size 1 1)
@@ -6148,7 +6148,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ba1313a-a61e-443e-acfa-3f672583addb")
+			(uuid "ee54276d-c630-4052-b784-a3bb7ee18d28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6161,7 +6161,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8be91094-e29e-499d-8ded-f3f7f84ccc19")
+			(uuid "e0c10b9d-4481-42d6-845f-551791708ce1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7767,16 +7767,16 @@
 	(footprint "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm"
 		(layer "F.Cu")
 		(uuid "670d43ee-67e2-4e81-a8c2-74b0bdb60924")
-		(at 195.072 114.808 90)
+		(at 194.564 114.8588 90)
 		(descr "20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf")
 		(tags "QFN 0.5")
 		(property "Reference" "U4"
-			(at 0 -3 90)
+			(at -2.8956 -2.3876 180)
 			(layer "F.SilkS")
-			(uuid "628c21f9-dea6-49f6-a155-a12b153e76f9")
+			(uuid "77bb9076-f0b0-48a6-a935-9ea1bd9881b2")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -7784,7 +7784,7 @@
 		(property "Value" "CP2102N-Axx-xQFN20"
 			(at 0 3 90)
 			(layer "F.Fab")
-			(uuid "1e2276fe-3c45-47df-809b-bc82123e5dfd")
+			(uuid "68e05eab-e536-491a-b8bc-f150f8f101a8")
 			(effects
 				(font
 					(size 1 1)
@@ -7797,7 +7797,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9bedac4e-45b9-44a0-8d8a-5b568f1e34c3")
+			(uuid "86eacb71-eefb-4203-b149-00f164ef4c71")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7810,7 +7810,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0972ea15-9725-4cc1-bdac-33448c74a99d")
+			(uuid "b39e9b1e-6371-4a8f-9f41-144f0cd33507")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11560,7 +11560,7 @@
 	(footprint "ESP32_project_Footprints:SOIC127P790X216-8N"
 		(layer "F.Cu")
 		(uuid "a475e9d1-d020-464b-8079-cb3499dd28e1")
-		(at 221.996 97.028)
+		(at 221.996 97.9424)
 		(property "Reference" "U6"
 			(at 0.27531 -3.73917 0)
 			(layer "F.SilkS")
@@ -12185,7 +12185,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "ac6b058d-87c7-4896-b390-d77047c41b38")
-		(at 216.408 83.566 90)
+		(at 213.614 83.566 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R25"
@@ -12975,7 +12975,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b1900ba8-a763-4f48-b32c-02b2c69549b6")
-		(at 216.154 98.298 -90)
+		(at 216.154 99.2124 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C14"
@@ -13517,7 +13517,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b8e8c959-d970-4bcd-95ec-d3119a141c4f")
-		(at 218.186 105.156)
+		(at 218.0844 105.2576)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R23"
@@ -13675,13 +13675,13 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
 		(uuid "bdb6e66e-bb7d-41f3-a977-f3cdba7326d8")
-		(at 207.518 99.572)
+		(at 261.6708 105.25)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP3"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
-			(uuid "d857b09f-5bb0-42ee-9219-b6ffc99f6edf")
+			(uuid "007d33f3-1fc2-48a2-9e96-f793bc6894bf")
 			(effects
 				(font
 					(size 1 1)
@@ -13692,7 +13692,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.55 0)
 			(layer "F.Fab")
-			(uuid "6f536cd5-1223-42ee-8333-a35bb0e50211")
+			(uuid "7c3e8846-285d-4791-a3cf-85b630f4771f")
 			(effects
 				(font
 					(size 1 1)
@@ -13705,7 +13705,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60c1e559-9197-4e79-a1b7-3fb8e3d01019")
+			(uuid "4c52dc31-3705-43f0-a252-57f2d043e040")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13718,7 +13718,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60f95381-5efb-4349-a83b-04ff200f5816")
+			(uuid "cc12a116-62fd-4bb4-ad5f-d46695f20773")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13942,7 +13942,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c01ac5db-eded-4959-b3f5-5a9ea7837cac")
-		(at 186.436 83.058 -90)
+		(at 186.8424 83.4644 -90)
 		(descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x05 2.54mm single row")
 		(property "Reference" "J5"
@@ -15620,7 +15620,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "d36a7fc0-8b42-4948-88da-e7cc7d13b182")
-		(at 211.328 86.614)
+		(at 210.7184 86.614)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C15"
@@ -16003,13 +16003,13 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "F.Cu")
 		(uuid "e1108f3e-59c0-470e-bc03-1db08ec8c310")
-		(at 207.518 96.522)
+		(at 261.6708 102.2)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP2"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
-			(uuid "af3c0cff-fb2a-4301-8184-c5d23a3108b9")
+			(uuid "34ab55a8-30bc-45bd-b54a-8d5a24bd2025")
 			(effects
 				(font
 					(size 1 1)
@@ -16020,7 +16020,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.55 0)
 			(layer "F.Fab")
-			(uuid "9701dabf-757c-44f0-8532-dc7a25f06837")
+			(uuid "06910941-5465-47d8-a50e-dcef379b6bdf")
 			(effects
 				(font
 					(size 1 1)
@@ -16033,7 +16033,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f647f84e-7432-4245-8dcc-b398b7c9274e")
+			(uuid "3cf6b7f4-f01f-47d8-ae81-0004702ac0d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16046,7 +16046,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bf065616-5b36-4800-8f05-1b9bb9b93df3")
+			(uuid "99b209ac-934f-4bde-99f2-a4e8569de0db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16495,7 +16495,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "e5f65881-05da-4b54-8c4c-135f5824f8ed")
-		(at 214.122 83.566 90)
+		(at 215.8492 83.566 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R24"
@@ -17090,7 +17090,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef868641-bb9c-4ed4-9e53-5f7140742012")
-		(at 201.168 83.058 -90)
+		(at 201.168 83.4136 -90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J4"
@@ -17353,7 +17353,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "f0e27322-c99c-4006-83fe-addbb95fb2c6")
-		(at 222.25 101.346)
+		(at 222.25 102.2604)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R22"
@@ -17511,7 +17511,7 @@
 	(footprint "ESP32_project_Footprints:PSON65P250X250X100-8N"
 		(layer "F.Cu")
 		(uuid "f21086e4-f562-44b5-b58a-9e53581f127f")
-		(at 211.328 83.566 90)
+		(at 210.7184 83.566 90)
 		(descr "2.5 mm x 2.5 mm x 0.93 mm metal lid LGA")
 		(property "Reference" "U2"
 			(at -0.235245 -1.866763 90)
@@ -18816,6 +18816,110 @@
 		(uuid "cb8de9dd-a218-4ebf-a4a1-2a9d7cf9e541")
 	)
 	(segment
+		(start 196.022 119.2585)
+		(end 196.022 118.298)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D-")
+		(uuid "08cd6b9b-65cb-4e29-a13d-28847285c370")
+	)
+	(segment
+		(start 195.314 117.59)
+		(end 195.314 116.4088)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D-")
+		(uuid "8fc884b9-fb84-43e0-a553-1765c9deab11")
+	)
+	(segment
+		(start 196.022 118.298)
+		(end 195.314 117.59)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D-")
+		(uuid "ac982b52-9253-4478-bffb-3bbc1f7f6220")
+	)
+	(segment
+		(start 194.818 117.602)
+		(end 194.814 117.598)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D+")
+		(uuid "57bce7a3-c35d-4cf8-ad5b-ef3428984445")
+	)
+	(segment
+		(start 194.122 119.2585)
+		(end 194.122 118.298)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D+")
+		(uuid "684fe4ef-be72-4a2b-a932-cda20158a45d")
+	)
+	(segment
+		(start 194.122 118.298)
+		(end 194.818 117.602)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D+")
+		(uuid "6d978053-7e45-454c-920f-9630467dbe35")
+	)
+	(segment
+		(start 194.814 117.598)
+		(end 194.814 116.4088)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/USB_D+")
+		(uuid "c5dff5a5-0da5-4a48-ba4c-3ba467d32839")
+	)
+	(segment
+		(start 194.84525 122.91925)
+		(end 194.84525 123.6105)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DP")
+		(uuid "b5903606-6f72-48e6-a564-023cd8b50e40")
+	)
+	(segment
+		(start 194.122 122.196)
+		(end 194.84525 122.91925)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DP")
+		(uuid "cd17fab1-eba0-4828-a867-8eac41ae261e")
+	)
+	(segment
+		(start 194.122 121.5335)
+		(end 194.122 122.196)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DP")
+		(uuid "f0077f7f-7407-47cf-b92a-1edd9a57b3e9")
+	)
+	(segment
+		(start 195.34525 122.91675)
+		(end 195.34525 123.6105)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DN")
+		(uuid "45335213-6ca8-4457-9fe8-cdabb51cc67a")
+	)
+	(segment
+		(start 196.022 121.5335)
+		(end 196.022 122.24)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DN")
+		(uuid "573af884-add3-4d4a-a1cf-bb057e4971b4")
+	)
+	(segment
+		(start 196.022 122.24)
+		(end 195.34525 122.91675)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USB_DN")
+		(uuid "6431d768-0117-4670-a6a4-5f2b22e18b85")
+	)
+	(segment
 		(start 174.244 132.334)
 		(end 177.546 132.334)
 		(width 0.6)
@@ -18846,6 +18950,334 @@
 		(layer "F.Cu")
 		(net "/VBAT")
 		(uuid "f6f609b0-de76-40be-b390-76064a78b404")
+	)
+	(segment
+		(start 198.628 83.4136)
+		(end 200.2028 81.8388)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "1ad6b377-eac9-459a-85c9-6623868797ea")
+	)
+	(segment
+		(start 226.1108 88.7388)
+		(end 226.0688 88.6968)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "2ad21be8-386b-401a-97ac-1d541f0345fc")
+	)
+	(segment
+		(start 217.45 84.2543)
+		(end 215.8492 82.6535)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "387c58d8-84a5-4682-8b2e-da0c08968df6")
+	)
+	(segment
+		(start 214.9875 83.5152)
+		(end 215.8492 82.6535)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "4aa21fb2-acec-4c1b-8854-6a81843ce97a")
+	)
+	(segment
+		(start 246.981691 91.092309)
+		(end 245.974 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "4ada633a-d339-4ce6-a671-75a7d6b0429c")
+	)
+	(segment
+		(start 245.974 92.1)
+		(end 238.822961 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "4c1b9d24-147b-43fc-b6fc-09abcfbc0453")
+	)
+	(segment
+		(start 218.667204 88.6968)
+		(end 217.45 87.479596)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "4efbf7ae-6007-4d9c-914c-6d1d746e302d")
+	)
+	(segment
+		(start 210.569784 81.8388)
+		(end 211.0434 82.312416)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "54141bc7-d71e-41e4-9600-93c5a6a4918d")
+	)
+	(segment
+		(start 235.75 92.1)
+		(end 238.552361 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "5462b8cd-4831-4b38-9a78-8b580d088fe0")
+	)
+	(segment
+		(start 211.0434 82.8346)
+		(end 211.724 83.5152)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "5a7aa3ca-295b-492f-a9fc-7ef2d484c420")
+	)
+	(segment
+		(start 211.0434 82.312416)
+		(end 211.0434 82.596)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "7945e8cd-a800-4738-9b34-c77baec9025c")
+	)
+	(segment
+		(start 238.700755 92.1)
+		(end 238.65711 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "82355f81-093f-4b65-86b2-6d0d3cca5835")
+	)
+	(segment
+		(start 217.45 87.479596)
+		(end 217.45 84.2543)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "985c8f7f-532b-4714-9365-7739f9159151")
+	)
+	(segment
+		(start 226.0688 88.6968)
+		(end 218.667204 88.6968)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "c3d9056a-c09c-4a19-9f4c-82d0a72f80be")
+	)
+	(segment
+		(start 211.724 83.5152)
+		(end 214.9875 83.5152)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "c67d499b-5956-42f7-badb-929bd0cd7d04")
+	)
+	(segment
+		(start 238.822961 92.1)
+		(end 238.700755 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "e1c7d36d-77b5-4c00-8350-1550177dbc67")
+	)
+	(segment
+		(start 211.0434 82.596)
+		(end 211.0434 82.8346)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "e454fbd0-870b-4f2d-abb9-bef1b0ac7bae")
+	)
+	(segment
+		(start 200.2028 81.8388)
+		(end 210.569784 81.8388)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "e8ba51c7-adc4-4a0c-b316-8fe12d1d1205")
+	)
+	(segment
+		(start 238.552361 92.1)
+		(end 238.65711 92.1)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "fb1e9871-12d8-4951-99ca-8ab8ee8aada8")
+	)
+	(via
+		(at 246.981691 91.092309)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "253a3e42-7247-4384-b724-7d48945e6843")
+	)
+	(via
+		(at 226.1108 88.7388)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "b1d04b5f-5084-411d-9734-163e19a002c0")
+	)
+	(segment
+		(start 246.981691 91.092309)
+		(end 244.628182 88.7388)
+		(width 0.3)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "155a8764-dd6f-4bb2-8de2-ef264252d3e7")
+	)
+	(segment
+		(start 244.628182 88.7388)
+		(end 226.1108 88.7388)
+		(width 0.3)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/SDA")
+		(uuid "6bb05fbb-394d-4c31-9a88-ed8966092289")
+	)
+	(segment
+		(start 218.7956 88.1888)
+		(end 226.7712 88.1888)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "0ec2be17-c9b7-47a3-aa6b-47175dd875a0")
+	)
+	(segment
+		(start 214.8351 81.4324)
+		(end 217.2208 81.4324)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "3ae0126f-544f-4612-b977-6e8b15372788")
+	)
+	(segment
+		(start 250.2672 93.6)
+		(end 253.25 93.6)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "428a563c-4fce-4147-8831-7ede21c36c80")
+	)
+	(segment
+		(start 213.5565 82.596)
+		(end 213.614 82.6535)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "a2eb7fe5-b7b1-44ae-bdb0-51372765639d")
+	)
+	(segment
+		(start 248.666 91.9988)
+		(end 250.2672 93.6)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "a93c4f56-8d62-429c-bc19-666b0fa1df85")
+	)
+	(segment
+		(start 217.2208 81.4324)
+		(end 217.9 82.1116)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "b29c888d-97d4-4f1d-9d89-75fa46d7d5e7")
+	)
+	(segment
+		(start 211.6934 82.596)
+		(end 213.5565 82.596)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "c94da647-68b7-4250-a150-d759dae4ac8a")
+	)
+	(segment
+		(start 196.088 83.4136)
+		(end 198.1516 81.35)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "cd02ae88-5351-417f-9faf-712cdc6e0164")
+	)
+	(segment
+		(start 198.1516 81.35)
+		(end 211.2456 81.35)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "d4028623-8338-4246-a134-5984a71ded4a")
+	)
+	(segment
+		(start 217.9 87.2932)
+		(end 218.7956 88.1888)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "d98d4821-2e5d-4e3e-9adc-e926dc98a1b7")
+	)
+	(segment
+		(start 211.2456 81.35)
+		(end 211.6934 81.7978)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "e4322eab-a820-43a9-9dbb-b2539e6bb550")
+	)
+	(segment
+		(start 217.9 82.1116)
+		(end 217.9 87.2932)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "ebe83d38-67fd-4f32-a0c4-6e8e3a82c7af")
+	)
+	(segment
+		(start 211.6934 81.7978)
+		(end 211.6934 82.596)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "f71a8f46-7ded-47e6-911c-24eca3553999")
+	)
+	(segment
+		(start 213.614 82.6535)
+		(end 214.8351 81.4324)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "fabc5d93-f034-4118-8063-8311e63d59e1")
+	)
+	(via
+		(at 248.666 91.9988)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "0764a3e0-9d99-4140-b9e2-5eb3c9eccde0")
+	)
+	(via
+		(at 226.7712 88.1888)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "0f25718f-85fc-42f6-a31e-c52276774bfe")
+	)
+	(segment
+		(start 226.7712 88.1888)
+		(end 244.856 88.1888)
+		(width 0.3)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "3a761745-b5cb-4a1f-8cf0-a44828a34bac")
+	)
+	(segment
+		(start 244.856 88.1888)
+		(end 248.666 91.9988)
+		(width 0.3)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/SCL")
+		(uuid "a9a48c68-e73b-469b-af67-54ae57e8124e")
 	)
 	(zone
 		(net "+5V")
@@ -20554,16 +20986,94 @@
 		)
 	)
 	(group ""
-		(uuid "927abf27-e46e-40c3-ae13-b581d9b7d473")
-		(members "ac6b058d-87c7-4896-b390-d77047c41b38" "d36a7fc0-8b42-4948-88da-e7cc7d13b182"
-			"e5f65881-05da-4b54-8c4c-135f5824f8ed" "f21086e4-f562-44b5-b58a-9e53581f127f"
-		)
-	)
-	(group ""
 		(uuid "aa6a6015-249a-45d6-9ff8-97054beb835f")
 		(members "a475e9d1-d020-464b-8079-cb3499dd28e1" "b1900ba8-a763-4f48-b32c-02b2c69549b6"
 			"f0e27322-c99c-4006-83fe-addbb95fb2c6"
 		)
+	)
+	(generated
+		(uuid "5c6b56e2-4b69-4b0f-a60d-f8deda8676db")
+		(type tuning_pattern)
+		(name "Tuning Pattern")
+		(layer "F.Cu")
+		(base_line
+			(pts
+				(xy 238.552361 92.1) (xy 238.65711 92.1)
+			)
+		)
+		(corner_radius_percent 80)
+		(end
+			(xy 238.65711 92.1)
+		)
+		(initial_side "left")
+		(is_time_domain no)
+		(last_diff_pair_gap 0.18)
+		(last_netname "/ESP32-C3-02/SDA")
+		(last_status "tuned")
+		(last_track_width 0.3)
+		(last_tuning_length 58.064206)
+		(max_amplitude 1)
+		(min_amplitude 0.1)
+		(min_spacing 0.3)
+		(origin
+			(xy 238.552361 92.1)
+		)
+		(override_custom_rules no)
+		(rounded yes)
+		(single_sided no)
+		(target_delay 1000000)
+		(target_delay_max 1000000)
+		(target_delay_min 0)
+		(target_length 1000000)
+		(target_length_max 1000000)
+		(target_length_min 0)
+		(target_skew 0)
+		(target_skew_max 0.1)
+		(target_skew_min -0.1)
+		(tuning_mode "single")
+		(members "fb1e9871-12d8-4951-99ca-8ab8ee8aada8")
+	)
+	(generated
+		(uuid "5e42ebd2-673b-4a6c-8f46-9b0efc91f724")
+		(type tuning_pattern)
+		(name "Tuning Pattern")
+		(layer "F.Cu")
+		(base_line
+			(pts
+				(xy 238.822961 92.1) (xy 238.700755 92.1)
+			)
+		)
+		(corner_radius_percent 80)
+		(end
+			(xy 238.700755 92.1)
+		)
+		(initial_side "left")
+		(is_time_domain no)
+		(last_diff_pair_gap 0.18)
+		(last_netname "/ESP32-C3-02/SDA")
+		(last_status "too_short")
+		(last_track_width 0.3)
+		(last_tuning_length 59.755128)
+		(max_amplitude 1)
+		(min_amplitude 0.1)
+		(min_spacing 0.3)
+		(origin
+			(xy 238.822961 92.1)
+		)
+		(override_custom_rules no)
+		(rounded yes)
+		(single_sided no)
+		(target_delay 1000000)
+		(target_delay_max 1000000)
+		(target_delay_min 0)
+		(target_length 70)
+		(target_length_max 70.1)
+		(target_length_min 69.9)
+		(target_skew 0)
+		(target_skew_max 0.1)
+		(target_skew_min -0.1)
+		(tuning_mode "single")
+		(members "e1c7d36d-77b5-4c00-8350-1550177dbc67")
 	)
 	(embedded_fonts no)
 )
