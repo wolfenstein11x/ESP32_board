@@ -4151,7 +4151,7 @@
 	)
 	(text "Chip select \nfor SD card"
 		(exclude_from_sim no)
-		(at 194.564 57.912 0)
+		(at 191.77 56.642 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6105,7 +6105,7 @@
 		)
 		(uuid "2f633f88-188f-433d-a186-8861fe28f917")
 	)
-	(label "CS_SD"
+	(label "MIC_OUT"
 		(at 207.01 60.96 180)
 		(effects
 			(font
@@ -6375,7 +6375,7 @@
 		)
 		(uuid "bd023126-8587-4aad-8dd8-2e3206f6048a")
 	)
-	(label "MIC_OUT"
+	(label "CS_SD"
 		(at 207.01 73.66 180)
 		(effects
 			(font

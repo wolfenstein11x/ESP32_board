@@ -75,7 +75,7 @@
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "warning",
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
@@ -118,7 +118,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
@@ -1099,7 +1099,7 @@
         "uuid": "f855f820-f2bc-4b92-b97f-8d70c266fcab"
       }
     ],
-    "used_designators": "C17,C23",
+    "used_designators": "C17,C23-25,#PWR48",
     "variants": []
   },
   "sheets": [

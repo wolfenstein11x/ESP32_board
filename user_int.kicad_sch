@@ -2116,16 +2116,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 119.38) (xy 170.18 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4141bfb2-4afe-4463-93fd-fa3082bc76b9")
-	)
-	(wire
-		(pts
 			(xy 229.87 62.23) (xy 227.33 62.23)
 		)
 		(stroke
@@ -2163,6 +2153,16 @@
 			(type default)
 		)
 		(uuid "5083d0d9-d87b-4e46-bf41-926c31f57f6e")
+	)
+	(wire
+		(pts
+			(xy 148.59 124.46) (xy 162.56 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56bea8ae-c27e-4ca9-95d0-7c10e8036810")
 	)
 	(wire
 		(pts
@@ -2336,16 +2336,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 129.54) (xy 170.18 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98ece718-6d22-477b-bc45-7bf787147aba")
-	)
-	(wire
-		(pts
 			(xy 52.07 113.03) (xy 43.18 113.03)
 		)
 		(stroke
@@ -2416,6 +2406,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 115.57) (xy 170.18 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5228f92-5c21-429a-83ed-04101274f2f2")
+	)
+	(wire
+		(pts
 			(xy 205.74 67.31) (xy 212.09 67.31)
 		)
 		(stroke
@@ -2446,6 +2446,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 129.54) (xy 170.18 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c60ae2cb-cf5b-466a-afee-0bb8096a6bf9")
+	)
+	(wire
+		(pts
 			(xy 209.55 52.07) (xy 229.87 52.07)
 		)
 		(stroke
@@ -2453,16 +2463,6 @@
 			(type default)
 		)
 		(uuid "d143cea3-773b-4368-b080-4a087c440f35")
-	)
-	(wire
-		(pts
-			(xy 148.59 124.46) (xy 162.56 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d78b5c3d-07e2-45b2-87bc-9c5d212d6c73")
 	)
 	(wire
 		(pts
@@ -4282,6 +4282,7 @@
 	(symbol
 		(lib_id "Transistor_BJT:BC817")
 		(at 167.64 124.46 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4289,10 +4290,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b472f5aa-2374-470f-a3dc-cac9f244785e")
 		(property "Reference" "Q3"
-			(at 172.72 123.1899 0)
+			(at 172.72 125.7301 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4303,7 +4303,7 @@
 			)
 		)
 		(property "Value" "BC817"
-			(at 172.72 125.7299 0)
+			(at 172.72 123.1901 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4314,7 +4314,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 172.72 126.365 0)
+			(at 172.72 122.555 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
