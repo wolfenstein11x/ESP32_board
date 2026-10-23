@@ -4142,6 +4142,12 @@
 		(uuid "3e1410f5-8ee4-463f-98c9-940fa57e85ca")
 	)
 	(junction
+		(at 33.02 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4cbcf5f4-0aa4-4c2b-b4b4-d36f00d53750")
+	)
+	(junction
 		(at 39.37 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4339,6 +4345,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 82.55) (xy 201.93 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f749850-dd2b-4370-ae5f-e1e08c6a3c30")
+	)
+	(wire
+		(pts
 			(xy 265.43 67.31) (xy 242.57 67.31)
 		)
 		(stroke
@@ -4366,16 +4382,6 @@
 			(type default)
 		)
 		(uuid "13d57f54-16ac-4f7c-b31b-b7c30d4bd019")
-	)
-	(wire
-		(pts
-			(xy 201.93 82.55) (xy 201.93 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16fee184-76de-4b83-932e-91c1699743e9")
 	)
 	(wire
 		(pts
@@ -4519,7 +4525,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 105.41) (xy 208.28 105.41)
+			(xy 201.93 115.57) (xy 208.28 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4849,6 +4855,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 107.95) (xy 201.93 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f2c5d31-d212-474b-aade-4288f0df694e")
+	)
+	(wire
+		(pts
 			(xy 78.74 50.8) (xy 95.25 50.8)
 		)
 		(stroke
@@ -4926,6 +4942,16 @@
 			(type default)
 		)
 		(uuid "9694fff9-0361-4e72-84d2-f462a5162cdd")
+	)
+	(wire
+		(pts
+			(xy 33.02 118.11) (xy 43.18 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98646212-b1fd-441f-a497-06fc7723c71f")
 	)
 	(wire
 		(pts
@@ -5159,7 +5185,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 116.84) (xy 33.02 120.65)
+			(xy 33.02 116.84) (xy 33.02 118.11)
 		)
 		(stroke
 			(width 0)
@@ -5299,7 +5325,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 101.6) (xy 208.28 105.41)
+			(xy 208.28 114.3) (xy 208.28 115.57)
 		)
 		(stroke
 			(width 0)
@@ -5359,6 +5385,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 116.84) (xy 43.18 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8c99d52-ede2-4b01-b28d-e0289f9853b8")
+	)
+	(wire
+		(pts
 			(xy 85.09 68.58) (xy 85.09 80.01)
 		)
 		(stroke
@@ -5386,6 +5422,16 @@
 			(type default)
 		)
 		(uuid "eafdb380-b4b3-4c28-985a-91972bb643cc")
+	)
+	(wire
+		(pts
+			(xy 33.02 118.11) (xy 33.02 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb0b3fae-5251-45ea-904b-96d1a76cad37")
 	)
 	(wire
 		(pts
@@ -8396,7 +8442,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 208.28 101.6 0)
+		(at 208.28 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8407,7 +8453,7 @@
 		(fields_autoplaced yes)
 		(uuid "890ad553-d332-4290-a2d5-6f492ee81e94")
 		(property "Reference" "#PWR019"
-			(at 208.28 105.41 0)
+			(at 208.28 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8418,7 +8464,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 208.28 96.52 0)
+			(at 208.28 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8428,7 +8474,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 101.6 0)
+			(at 208.28 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8439,7 +8485,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 101.6 0)
+			(at 208.28 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8450,7 +8496,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 208.28 101.6 0)
+			(at 208.28 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9072,6 +9118,184 @@
 		)
 	)
 	(symbol
+		(lib_id "0ZCH0110AF2E:0ZCH0110AF2E")
+		(at 201.93 107.95 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad542133-3c4f-4509-8ad0-e00cf5b91d7c")
+		(property "Reference" "F2"
+			(at 204.47 97.7899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0ZCH0110AF2E"
+			(at 204.47 100.3299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ESP32_project_Footprints:FUSC3226X100N"
+			(at 298.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf"
+			(at 398.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "1210 SMT PPTC | 1.10 Ih | 16V"
+			(at 201.93 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1"
+			(at 598.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Bel Circuit Protection"
+			(at 698.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0ZCH0110AF2E"
+			(at 798.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 898.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 998.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1098.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Purpose" ""
+			(at 201.93 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "327303a0-04b2-4962-a11a-fff82810a51d")
+		)
+		(pin "1"
+			(uuid "cde7cd4b-e68d-4084-92f2-1be4233f621f")
+		)
+		(instances
+			(project "ESP32_board"
+				(path "/f855f820-f2bc-4b92-b97f-8d70c266fcab"
+					(reference "F2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 149.86 184.15 0)
 		(unit 1)
@@ -9652,6 +9876,84 @@
 			(project "ESP32_board"
 				(path "/f855f820-f2bc-4b92-b97f-8d70c266fcab"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 43.18 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc902102-972a-4727-92c5-caff4bd4ed5f")
+		(property "Reference" "#FLG05"
+			(at 43.18 114.935 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 43.18 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 43.18 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1676b05b-fa1d-4b4e-aaf3-a1c8c099d11e")
+		)
+		(instances
+			(project "ESP32_board"
+				(path "/f855f820-f2bc-4b92-b97f-8d70c266fcab"
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)

@@ -180,7 +180,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -191,7 +191,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1210 SMT PPTC | 1.10 Ih | 16V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -199,6 +199,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5415c9e0-290e-4343-8aa1-73e99231d1ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Bel Circuit Protection"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba9a24a1-65b1-46b5-85b3-fe6118af9cf3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0ZCH0110AF2E"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7d7c39f-3c0d-4260-831c-d245fec0f226")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6712d0e2-26b0-435d-8a04-256ecd86c2f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca2344c6-26c3-4351-b878-4e63f6fbbb10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70fae714-a33b-452a-ad5d-0922ef170b88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b97107e9-f0bd-459c-abad-671fbf4060d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -384,7 +475,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -400,6 +491,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bc5a75e9-6431-4422-b58a-92b105ec6799")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9e883a2-4f9e-4f63-8252-c29175441131")
 			(effects
 				(font
 					(size 1 1)
@@ -531,7 +635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -542,7 +646,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -558,6 +662,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a350c94a-5c43-4612-96fa-800c0987b846")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67d888ed-81c7-4d37-8816-422468721fc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56bc9d9a-9673-4263-afed-0509d7fdff6c")
 			(effects
 				(font
 					(size 1 1)
@@ -915,7 +1045,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170KRKT.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -926,7 +1056,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Standard LEDs - SMD Red Clear 631nm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -934,6 +1064,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fb3944e-7be7-4f93-90c1-7a1dd45c04b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a43ec480-fd8d-43c3-b9b1-1761eb3a9e06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170KRKT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cb958ca-bf86-4efc-aa84-286d527d60bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170KRKT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "635df6fa-20c2-42f1-a6c4-dee331f46a11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85e09382-1377-4212-8b64-2631dfe2159d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170KRKT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22220b34-883b-4455-9f39-595423f73cdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170krkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "289b21b2-7231-4137-a879-13c54a611850")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1149,7 +1370,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1165,6 +1386,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "971f38d3-e769-4304-b533-68deb8e6ff95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e5ee940-30f6-4158-9ea0-14c8c2cea009")
 			(effects
 				(font
 					(size 1 1)
@@ -1306,7 +1540,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 800mA SOT-223"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1314,6 +1548,110 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "onsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b73e7b23-cb71-4394-8238-9a5027cbcf8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PACKAGE" "SOT-223-4 Texas Instruments"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd1cb1d4-f657-415e-a03c-369df14c86f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PRICE" "None"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0572bf5d-a0ec-4fa4-bca8-d230530b4c3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/LM1117MPX-33NOPB/Onsemi/view-part/?ref=eda"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f8270eb-28aa-4b3f-a690-4f4b42b68226")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LM1117MPX-33NOPB/Onsemi/view-part/?ref=snap"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55a15eeb-095b-48e4-955c-1d1a0fb68783")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "LM1117MPX-33NOPB"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bae1ebeb-3509-47a7-82e0-b71637875a0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AVAILABILITY" "Warning"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c64a9646-1348-472b-910d-9994fb428008")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/LM1117MPX-3.3/?ref=eda"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad7d0624-a80f-436b-9a88-ca3d0a34afa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1491,7 +1829,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1500,6 +1838,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab494cc5-2f3c-423a-b504-2ca87d90153d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1597,7 +1948,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Micro SD and SD Card Sockets, Input Output Connectors, SD Socket,9 Position,SMT"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1605,6 +1956,110 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Amphenol"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b207dd92-892b-4988-a8d0-fbe13b5fa3c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "2.95mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a95b0349-bff3-4be8-9a34-e64995835c91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/GSD090012SEU/Amphenol/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc22fd57-5c25-4369-89b8-d1534e585f5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a0332e3-b1cb-4506-ab98-6bae70db4ba2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78844c2a-c1bf-40d5-97b9-a1f6ebaae52f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GSD090012SEU/Amphenol/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c68c5c2b-5d96-45c2-82e4-9e41d9a2be8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "GSD090012SEU"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4af8dcd-1c46-4b4b-a90a-32d77893482e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Amphenol"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5baf05e5-ac65-46a9-b9ee-02e3ffa25eb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2118,7 +2573,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2134,6 +2589,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3ae4572a-7214-40ac-b032-a126c689b3c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12d3f9fc-04dc-482d-a99c-19e91cebc3b2")
 			(effects
 				(font
 					(size 1 1)
@@ -2276,7 +2744,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2292,6 +2760,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "17e053a5-2ef7-42ef-b755-ad620224875b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c36545ec-611e-49ca-b011-6238feee9a47")
 			(effects
 				(font
 					(size 1 1)
@@ -2434,7 +2915,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2450,6 +2931,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1f0e55ce-be76-4985-9206-738b9761b91b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7999e27-7983-43ac-9c7a-84529fbe93b5")
 			(effects
 				(font
 					(size 1 1)
@@ -2592,7 +3086,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2608,6 +3102,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ed1b281d-2e2d-4691-be5b-57bb0c0098fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a8efd9c-0e60-4ac9-9736-bc3314167b3f")
 			(effects
 				(font
 					(size 1 1)
@@ -2750,7 +3257,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2766,6 +3273,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "79a339b3-8f72-4dbe-b90a-d88032addf63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1608daf7-4ca4-42cf-b6f4-1a1bdf69c4d1")
 			(effects
 				(font
 					(size 1 1)
@@ -2908,7 +3428,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2924,6 +3444,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "077896f6-baa4-4c44-b99b-9c6626634632")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a2c143b-4ea6-4509-bc97-5f8100ea9b39")
 			(effects
 				(font
 					(size 1 1)
@@ -3066,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3082,6 +3615,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b6678c91-4c27-4a54-8da5-d383d25dce8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "111553de-33ae-489b-b4fb-d7b627c54d43")
 			(effects
 				(font
 					(size 1 1)
@@ -3224,7 +3770,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3240,6 +3786,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "eca4be5d-9da3-446d-91a5-11b36b5b4829")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cdb93f5-5a61-411e-b2d9-8f23cde42934")
 			(effects
 				(font
 					(size 1 1)
@@ -3382,7 +3941,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3398,6 +3957,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "17e5a72d-d4ac-493f-a7ad-64516b50c83d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c9b9ba7-7c89-42b1-9822-28f0f321d936")
 			(effects
 				(font
 					(size 1 1)
@@ -3529,7 +4101,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3540,7 +4112,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3556,6 +4128,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "dc456f05-e7af-412a-9997-4ea045fc611e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f768973-77b4-471f-a0e6-bc8ce0f8d60a")
 			(effects
 				(font
 					(size 1 1)
@@ -3904,7 +4489,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3912,6 +4497,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2833e8fb-2652-4529-b133-f46adedeceb4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4097,7 +4695,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4113,6 +4711,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2a3328d3-f57f-401f-b6d4-67d3386cb2c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b21e0c3-f22b-4522-9068-ab9d4e347a33")
 			(effects
 				(font
 					(size 1 1)
@@ -4256,7 +4867,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4272,6 +4883,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "31fcf84a-657d-4f07-9cab-decbecf6829d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93972bc4-5060-48e0-9730-1b74ff8a3cd6")
 			(effects
 				(font
 					(size 1 1)
@@ -4414,7 +5038,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4430,6 +5054,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e1be0bdc-9ebf-490c-ad96-50eed7119888")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acdf4b9b-db76-42ab-aab0-ab401cd115af")
 			(effects
 				(font
 					(size 1 1)
@@ -4570,7 +5207,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB Type-C Connector | USB 3.1 | 1 Port | Right Angle Receptacle | Shielded | 0.039 in (1.00mm) PCB Thickness"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4578,6 +5215,110 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Bel Fuse"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "742487e2-f89e-4c03-af79-4b9fcb1b4413")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "2.96 mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09b636bd-ba72-46d9-a653-bbfaf45dfd34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SS-52400-002/Bel+Circuit+Protection/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eec0c24f-abaf-4a52-83e0-c440e8211c67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd49058a-c57a-4404-99b9-cd8e3739b287")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "A0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f51dc262-b34e-40a5-8f66-a2016fb75b6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SS-52400-002/Bel+Circuit+Protection/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8225b38-c2f7-4e3a-ba01-a5b13f711adf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "SS-52400-002"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f9a3caf-ff66-459a-bcc3-a8a4a2532c05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "BelFuse"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c84e4a6-7c03-4ea7-bed5-304d0ad1d997")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5237,7 +5978,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5246,6 +5987,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7f268b4-b755-4d4b-b01e-6adad3cf3b79")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5344,7 +6098,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5360,6 +6114,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a1ec9106-18f5-4631-b428-0a039fa82b10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "250fbd17-a174-4b9d-84ae-2954cefc3502")
 			(effects
 				(font
 					(size 1 1)
@@ -5503,7 +6270,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5519,6 +6286,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "56efbd22-08fd-4e82-bb55-6ed3bb49a315")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d99017eb-7a39-4a5c-94b5-a5f3cef3dffe")
 			(effects
 				(font
 					(size 1 1)
@@ -5652,7 +6432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5663,7 +6443,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED,SMD,0805,Green,6mcd,130deg Lite-On LTST-C170GKT, CHIPLED 0805 Series Green LED, 569 nm 2012 (0805), Rectangle Lens SMD package"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5671,6 +6451,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d52469e7-40c2-491f-9ce6-8bb2ca346fbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5854c7dd-e082-4eb9-b391-b1e3364fb05e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca40ee3f-4535-4706-ad09-b5c0d89222cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c5c7c46-6e10-42f1-8018-acbb53583b31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170GKT?qs=%2FSqKn2EfXQSV5aRij3YIfQ%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "564bb988-514c-4680-a1d0-d8b3da7fb0aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "493c3317-9896-4676-9313-c8a4cad3b8ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170gkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c67d77af-3f6e-4629-832e-a288bf2ff78f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5884,7 +6755,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Connector Header Surface Mount 2 position 0.079 (2.00mm)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5892,6 +6763,110 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "JST"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "212d95f3-a26f-4dda-8f44-8b2dc61419e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "6.6 mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e93c5691-a5fb-44f5-bf0f-397f3c72a35e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/B2B-PH-SM4-TB/JST/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9911bfda-8e51-4199-a8ec-1b210cd83783")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9667afb2-2ed5-4155-9057-f748adaf8d2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "N/A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d791866a-4716-4945-b18c-7b847a53b3e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-PH-SM4-TB/JST/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1ff2b7c-c29c-4780-8483-3b4ae97c76bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "B2B-PH-SM4-TB"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1a80b3d-68e7-4cd0-a331-5d986b168f50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "JST"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "591d1a38-6d5a-4956-b42a-ce60462c1d50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6153,7 +7128,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6169,6 +7144,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "28e884ae-2f66-491d-941d-426412da2763")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41e0e5d5-8c0e-4a8c-915a-fb91c18f907c")
 			(effects
 				(font
 					(size 1 1)
@@ -6313,7 +7301,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6322,6 +7310,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "814ff042-76bb-4187-9bbe-89a8982f54f7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6381,112 +7382,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_2.5mm"
-		(layer "F.Cu")
-		(uuid "55db9a0d-0b46-4414-a955-b1e81681ca23")
-		(at 167.894 115.062)
-		(descr "Mounting Hole 2.5mm, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole")
-		(property "Reference" "REF**"
-			(at -0.762 -3.45 0)
-			(layer "F.SilkS")
-			(uuid "6fddfd00-ba32-43f0-99e8-a9d931cc9217")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole_2.5mm"
-			(at 0 3.45 0)
-			(layer "F.Fab")
-			(uuid "87fde4ac-d6ed-44b5-9a89-3b3f98bce7eb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "561c87f3-041a-4126-8f8d-557c71aaaef4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "736a9647-9667-4c8f-ab89-d11ae0980eb0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "148daa13-ef74-4fcf-a653-547d6c390e94")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr exclude_from_pos_files exclude_from_bom)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.5 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "35597acf-60fc-4f2a-87d3-ffae14470341")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.75 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "49b96315-bd97-4a66-a986-a660562df4c1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "0a8d5a0a-01a9-4da5-9db5-649c9a9962b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.5 2.5)
-			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
-			(uuid "7e12f389-19b2-4269-8dcc-fb6fc9d6cefe")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "57e1b09f-39d8-4bff-8984-a0d0138d88c3")
@@ -6526,7 +7421,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6542,6 +7437,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9585034b-7eac-47b9-bab2-77037b3662f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e3de59a-efc9-4612-85cc-40f4de3e2bb8")
 			(effects
 				(font
 					(size 1 1)
@@ -6685,7 +7593,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6701,6 +7609,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e7d6b7f6-ed4a-43a6-ac2e-d2d95468d871")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b885f5d-7d1f-4feb-a452-39ac376e3717")
 			(effects
 				(font
 					(size 1 1)
@@ -6804,112 +7725,6 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.5mm"
-		(layer "F.Cu")
-		(uuid "5ab1671d-7d12-4268-97d5-3a361cc01f98")
-		(at 167.894 93.98)
-		(descr "Mounting Hole 2.5mm, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole")
-		(property "Reference" "REF**"
-			(at 0 -3.45 0)
-			(layer "F.SilkS")
-			(uuid "2edc8df7-023a-4a8d-8a1c-63ea7fb261c2")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole_2.5mm"
-			(at 0 3.45 0)
-			(layer "F.Fab")
-			(uuid "e1e24ee4-a70b-4ec7-b20b-3979d99f0641")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d48c482e-e99a-4913-a27d-324e9b599228")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a05c16c0-b525-4457-bc5c-5d6d2b987775")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "afbd4474-aa37-4972-9cfc-35b424637c45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr exclude_from_pos_files exclude_from_bom)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.5 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "2fa1c36d-c628-46ce-9f43-f8cdcfd10736")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.75 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "ae24e303-20c3-429c-8838-ad9e532fd61c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "48e96637-a36b-4c3d-b41a-e155f2e548b3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.5 2.5)
-			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
-			(uuid "2927e8d7-5bd6-4f97-b4d0-bfd37bac8f3d")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "5b6a7957-d0c5-4a4d-a0ff-6373169a2d24")
@@ -6949,7 +7764,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6965,6 +7780,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fdfa2be4-dfdb-4176-b9d3-a57aa7fa3b84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b6126b2-4115-4b77-80e8-e43542f1033c")
 			(effects
 				(font
 					(size 1 1)
@@ -7109,7 +7937,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7117,6 +7945,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d14d0e4c-6718-4c47-9778-0d4d98be380b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7303,7 +8144,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7319,6 +8160,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "16ba1d66-68df-4363-816c-a43dbcee8fc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e142c5d-84b3-4467-a277-e3c91c99ce8d")
 			(effects
 				(font
 					(size 1 1)
@@ -7459,7 +8313,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.0 mm, Omnidirectional, PCB Mount, 2.0 Vdc, Electret Condenser Microphone"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7467,6 +8321,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Same Sky"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64279c01-67f4-42bc-bfee-49c8dee6bccb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/CMC-5042PF-AC/Same+Sky/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f236f7f-4550-4c09-9a90-194e20535e7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45a396f7-fd55-4425-8833-6b9abb9d8e1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CMC-5042PF-AC/Same+Sky/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08c90cdb-7dff-495e-a0d3-703264cfe025")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "CMC-5042PF-AC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f36f1446-9c6d-474d-a576-36d0b29c7aac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "CUI INC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be38e97d-1693-4227-8784-c23b919fa437")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89f52928-e001-45f7-a1aa-e57051e5ca26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7568,7 +8513,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170KRKT.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7579,7 +8524,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Standard LEDs - SMD Red Clear 631nm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7587,6 +8532,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d838d7e2-e8c0-4f7f-8dd2-8638d1b02520")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ed715ac-95a7-47eb-83ab-270626aa2b70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25861a1c-b4fb-45ac-a273-440e8f615eaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4147ad9c-1447-4374-8e46-c4f9eab5567d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bfe94b9-3f8d-413c-913c-f7d47f7ebdd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ad83779-466d-4e4a-b9dd-ed4dc62919d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170krkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b478c26-09f1-41e4-8a39-1e48addc3b90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7802,7 +8838,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7818,6 +8854,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2d08cf86-485b-48ca-935c-15699420c2f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a463ae5b-59aa-4b59-b817-c2c6f503a79a")
 			(effects
 				(font
 					(size 1 1)
@@ -7949,7 +8998,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7962,7 +9011,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB to UART master bridge, QFN-20"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7971,6 +9020,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa09971f-ec88-4b85-9e35-5ae0cd29a978")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8408,112 +9470,6 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.5mm"
-		(layer "F.Cu")
-		(uuid "6d13a3ba-59d6-4f52-83ff-ca96bf43e726")
-		(at 206.502 94.488)
-		(descr "Mounting Hole 2.5mm, no annular, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole")
-		(property "Reference" "REF**"
-			(at 0 3.81 0)
-			(layer "F.SilkS")
-			(uuid "c820b4c2-0cbc-4c69-8ae6-2d7232927fc6")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole_2.5mm"
-			(at 0 3.45 0)
-			(layer "F.Fab")
-			(uuid "8736c84e-7293-46e7-832b-a87ceb0e592e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0baae8fe-0038-43a1-8545-c1d543a2098f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0c5a1137-5d20-4e86-ab6a-e28bf5eada47")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3ba505f5-4bdd-4fbc-9212-bd412700069f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr exclude_from_pos_files exclude_from_bom)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.5 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "c1ee50a7-fc55-466d-8aa5-ee519c64e7fa")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.75 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "918fff2b-cf72-4b63-8953-449130c9970c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "b5a7b27a-937e-4881-a961-e826213d0026")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.5 2.5)
-			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
-			(uuid "504ec7fc-5630-4bee-81d7-590126ed90d6")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "6eda01dc-f20f-4a01-8cb2-c990a20c1669")
@@ -8553,7 +9509,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8569,6 +9525,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "eb19a919-6f22-4e8a-99d9-141d1d739518")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31a35ab9-4eb4-41d7-ba08-26bd35fa3749")
 			(effects
 				(font
 					(size 1 1)
@@ -8711,7 +9680,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8727,6 +9696,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "131dd452-dd71-40c0-8e22-81a1e0cceed9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d3d117d-6b93-4752-9eb5-8ccced951ef9")
 			(effects
 				(font
 					(size 1 1)
@@ -8871,7 +9853,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8879,6 +9861,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "398a1e1b-1af0-4ed7-aa60-13e8c4c7705c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9064,7 +10059,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9080,6 +10075,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "494a6993-0176-4a24-ac43-63bc260f568c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4e4a091-c03a-4742-bba5-13f77c8634b4")
 			(effects
 				(font
 					(size 1 1)
@@ -9222,7 +10230,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9238,6 +10246,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fbeca0cc-3497-4ffe-a3df-d90a500c1afd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6e9eca1-85c0-4b70-a40e-4efb3323158e")
 			(effects
 				(font
 					(size 1 1)
@@ -9380,7 +10401,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9396,6 +10417,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "20c75aac-6cb6-4a50-b360-5c62f5309092")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a562aaa-bf5e-4316-a169-3912c2032df8")
 			(effects
 				(font
 					(size 1 1)
@@ -9537,7 +10571,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "WiFi Modules (802.11) (Engineering Samples) SMD module, ESP32-C3, 4MB SPI flash, PCB antenna, -40 C +105 C"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9545,6 +10579,71 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Espressif Systems"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72dd0a1e-90af-4dbc-9d84-1887fea66abc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ESP32-C3-WROOM-02-H4/Espressif+Systems/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5c4ba1e-90a5-4827-aad4-bbc773f2f329")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-C3-WROOM-02-H4/Espressif+Systems/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b98a5f90-e6f2-43cd-85e1-aeda76809c43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "ESP32-C3-WROOM-02-H4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9504f980-da80-41ee-b3af-a4d022e7a68c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cd66aec-2c27-4177-9e5a-c3103828baba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10285,7 +11384,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Phototransistors 570nm Top View 1206 (3216 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10293,6 +11392,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Vishay Semiconductor"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ff27e6f-3ef2-4c30-b1fa-109b6b766454")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TEMT6000X01/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f7e41d3-5b6f-4151-bb57-6bd5cd0aaea8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df80a681-8828-46ea-9481-340b1f179711")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "1.9"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aea96cf6-5e50-4a28-9382-e0aee640f109")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TEMT6000X01/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4080f4d9-0e92-46dd-96b1-460e5f9dc11c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "TEMT6000X01"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3fdbb7a-a49b-42a5-affa-8aebb6477e1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "VISHAY"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b30a0df6-3688-4349-a3df-59f54ad577f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10476,6 +11666,432 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "ESP32_project_Footprints:TRIM_35WR100KLFTR"
+		(layer "F.Cu")
+		(uuid "8cd4acfc-0c9e-4c67-bc05-59a26e5c8e7f")
+		(at 204.114 97.028)
+		(property "Reference" "R17"
+			(at 0.725 -2.785 0)
+			(layer "F.SilkS")
+			(uuid "4aa5521f-83fb-462e-9993-cdc8888a1cc4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "35WR100KLFTR"
+			(at 8.345 2.685 0)
+			(layer "F.Fab")
+			(uuid "f3a49845-94a2-4ffc-9f53-6d31727124fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2fea0ac6-e09a-4c59-b7d7-164a65f8322f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100 kOhms 0.1W, 1/10W - Surface Mount Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c322a776-c395-4230-ae46-0d04d07b8456")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "TT Electronics/BI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31a526a9-348b-44b6-b137-7f0a7c690a51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.8mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68ae8999-bf2d-47c8-ab43-e379c9d30672")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "TT Electronics/BI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "910bba43-94e8-464d-b308-2347df8db524")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b78ab00-db8c-4140-9faa-dcfd7ebf45cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/35WR100KLFTR/TT/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c290609f-2f2d-4387-a806-6ddb75fd462e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0bec5548-2ba9-46d7-a10e-6c9e1f3990dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48ae5288-ab66-46d9-a74b-1e4299156401")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/35WR100KLFTR/TT/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3e37e77-34bd-483a-8fbe-d5c11f60558c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "35WR100KLFTR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4da99de6-5593-4445-97ab-5bf948e76452")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbe71fb3-ea3a-485a-8e45-9e33b60d6fe3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "TT Electronics/BI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9f1945b-4b84-4655-9fcb-b2c8835d84e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bf21263-e307-4dae-a265-bcdba1c212ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/852fbd06-88eb-455e-a8d4-37cda7c93bb6/d451257b-da7d-48ce-8332-2cb266e0fc5e/7e7bfa12-8cbd-491e-a1e7-7b0de02a63ad")
+		(sheetname "/ESP32-C3-02/Sensors/")
+		(sheetfile "Sensors.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.68 -1.5)
+			(end 1.2 -1.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "29dbcf0e-9954-4c0e-a315-fd6302a13fd6")
+		)
+		(fp_line
+			(start -0.68 1.5)
+			(end 1.2 1.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "31c0e0ef-12f0-4867-8036-50c26fbe13be")
+		)
+		(fp_line
+			(start 1.2 -1.5)
+			(end 1.4 -1.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d13bc301-2df0-4047-8ba4-f6761fb233d2")
+		)
+		(fp_line
+			(start 1.2 1.5)
+			(end 1.4 1.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "56f5afaf-5649-4ca3-9dc7-37956849e06f")
+		)
+		(fp_line
+			(start 1.4 -1.4)
+			(end 1.4 -1.12)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "71f477e9-e9ca-497b-a55a-96ab7b4fc220")
+		)
+		(fp_line
+			(start 1.4 1.4)
+			(end 1.4 1.12)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "11100bf6-48b1-48c4-881c-a64c7d65ce73")
+		)
+		(fp_circle
+			(center -3 -1)
+			(end -2.9 -1)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "5260dc44-c666-4896-93fe-57b49ff61e66")
+		)
+		(fp_line
+			(start -2.45 -1.85)
+			(end -2.45 1.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "44b40c20-71d2-435a-b129-30b54ce48e7a")
+		)
+		(fp_line
+			(start -2.45 1.85)
+			(end 2.65 1.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b7869619-de35-4228-a27a-bcd2ca57cb3d")
+		)
+		(fp_line
+			(start 2.65 -1.85)
+			(end -2.45 -1.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "617e1c89-8291-4e11-b503-bc6fb3eaff48")
+		)
+		(fp_line
+			(start 2.65 1.85)
+			(end 2.65 -1.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2e6067f0-ffa8-44ca-8a65-4803443fa491")
+		)
+		(fp_line
+			(start -1.6 -1.5)
+			(end -1.6 1.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "34aae48e-7ea7-4853-a0e3-f3785899d30b")
+		)
+		(fp_line
+			(start -1.6 -1.5)
+			(end 1.2 -1.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e5961d4d-b5a8-417f-8ac1-f025e211a511")
+		)
+		(fp_line
+			(start -1.6 1.5)
+			(end 1.2 1.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "20504db5-64da-45a1-9346-5bb60aa609d7")
+		)
+		(fp_line
+			(start 1.2 -1.5)
+			(end 1.4 -1.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6352da40-c218-40cd-b5d7-c29e4e7faf79")
+		)
+		(fp_line
+			(start 1.2 1.5)
+			(end 1.4 1.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "fee3fd69-0bdd-4208-aac5-6e850b0df6dc")
+		)
+		(fp_line
+			(start 1.4 -1.4)
+			(end 1.4 1.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2858c627-842c-4fe5-b4b8-ee23520316a8")
+		)
+		(fp_circle
+			(center -3 -1)
+			(end -2.9 -1)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "6d7233bf-f08b-4abe-9f9e-0479290c1807")
+		)
+		(pad "1" smd rect
+			(at -1.6 -1)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(R17-Pad1)")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "95efd591-50bb-4ecc-b8e5-275d6848bdfa")
+		)
+		(pad "2" smd rect
+			(at 1.65 0)
+			(size 1.5 1.6)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(R17-Pad2)")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "4a899c4e-1ee3-48a0-8716-c2e31166bcb6")
+		)
+		(pad "3" smd rect
+			(at -1.6 1)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(R17-Pad3)")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "07e9713e-3e1c-4e05-b2a2-14fd1dd38261")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "90a6019e-3754-469a-8b08-c9409be007a1")
@@ -10515,7 +12131,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10531,6 +12147,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0d30375c-35bc-49db-a7de-e6ae256571b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd22d390-ff11-4dd7-a6cf-5be1b10cc76f")
 			(effects
 				(font
 					(size 1 1)
@@ -10671,7 +12300,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10679,6 +12308,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ace1c9fa-e827-4f7d-8ad2-cb83446281a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USLPT2819DT2TR/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58c5a1ad-bbbc-453d-b121-c0739833dd52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1cf0392-6dbd-4e22-9cb7-f5358a9027b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27e86b7d-9b60-48e1-94eb-5d2429244db8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USLPT2819DT2TR/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb5871b7-7d77-4431-b45a-ae9cc3fff4df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "USLPT2819DT2TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f60c3342-80ed-4c4b-8250-1be829428b46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2a1dc58-c837-491f-afe0-991a86207239")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10941,7 +12661,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.mouser.com/ds/2/268/22090a-52174.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10952,7 +12672,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single cell, Li-Ion/Li-Po charge management controller"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11595,7 +13315,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11611,6 +13331,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "956959cc-7261-4004-a685-1d2bec4df7ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3e37680-4fa5-4691-b4d4-12094a98bf31")
 			(effects
 				(font
 					(size 1 1)
@@ -11751,7 +13484,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FLASH - NOR Memory IC 32Mb (4M x 8) SPI - Quad I/O 133 MHz 8-SOIC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11759,6 +13492,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SHOP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9398b5f8-c89f-486f-a08a-39c000da53fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Winbond"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f9e8231-42f7-4b81-92ca-3a49650b4088")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/W25Q32JVSSIQ/Winbond+Electronics/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56115e82-33a2-4a69-9a82-ceeb4e07f52e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "W25Q32JVSSIQ"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb1558bd-854d-4617-b31a-3eaddf7751a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "M_PART_NUMBER" "W25QXX"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dce4465-8c1b-4e9f-9eec-e7a2a73c173d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/W25Q32JVSSIQ/Winbond+Electronics/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5eb7513c-a0ec-41d8-904f-20afb0d149aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02851192-1c2d-4ea2-b8e5-11373d11a0dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12062,7 +13886,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12078,6 +13902,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5b50052f-667c-4090-95ad-aba612859587")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39223d23-8e48-4334-8d5b-bc7bed7abcd5")
 			(effects
 				(font
 					(size 1 1)
@@ -12220,7 +14057,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12236,6 +14073,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a14c73e5-0ca8-48f1-927a-62add70fb372")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aaf85343-cccc-49a0-a97b-caf3e1f69d9a")
 			(effects
 				(font
 					(size 1 1)
@@ -12378,7 +14228,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12394,6 +14244,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4c4c1340-032a-4a82-b4bb-a3bd0ede8a11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5dab9820-bbf1-47d9-ae01-2f7e33040578")
 			(effects
 				(font
 					(size 1 1)
@@ -12536,7 +14399,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12552,6 +14415,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e09d0c77-5186-4bb6-8ec3-1d16d21c738a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "499eaed7-3352-429c-9090-152f1926ac10")
 			(effects
 				(font
 					(size 1 1)
@@ -12694,7 +14570,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12710,6 +14586,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8df7bee1-3d9a-482e-8a7d-cce2bbb89f5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff11f1bc-ab9c-4d96-ac54-b5eed53a919a")
 			(effects
 				(font
 					(size 1 1)
@@ -12852,7 +14741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12868,6 +14757,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "75a69bb8-4cf7-4675-bec1-248b51e9c204")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "631aca14-0bd2-435e-b30a-d60c94965a0a")
 			(effects
 				(font
 					(size 1 1)
@@ -13010,7 +14912,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13026,6 +14928,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0259d376-d324-4414-a26a-94c9eb08ef19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3cec804-e1bb-42de-8afa-c2fb3eb44f5b")
 			(effects
 				(font
 					(size 1 1)
@@ -13168,7 +15083,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13184,6 +15099,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b1906510-18ea-4ae4-bd1f-7ceb24ba4e04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eda9763b-de57-4b5b-8be9-595eb02d96e3")
 			(effects
 				(font
 					(size 1 1)
@@ -13327,7 +15255,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13343,6 +15271,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a8e224b3-bf25-4216-8f80-92a6bad2d3c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c39d534-2b4a-4a9b-81e7-0986e635f2b9")
 			(effects
 				(font
 					(size 1 1)
@@ -13476,7 +15417,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13487,7 +15428,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED,SMD,0805,Green,6mcd,130deg Lite-On LTST-C170GKT, CHIPLED 0805 Series Green LED, 569 nm 2012 (0805), Rectangle Lens SMD package"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13495,6 +15436,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "819f3921-9d15-4d96-ba4e-c17dae584b53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "154979f6-0ed6-4dec-aa40-9bb8f02327cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "479cce4c-c3e0-454b-b713-b4a7c25b232e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06f8624d-f041-4e54-b68e-ba521f177b6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170GKT?qs=%2FSqKn2EfXQSV5aRij3YIfQ%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b116faf-cc77-462a-b709-2473abf94c9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170GKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87906f4b-e3c5-4051-ad39-f64cfa58216b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170gkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b94368e-2fa5-47e9-8c52-c758c266624d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13710,7 +15742,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13726,6 +15758,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c730abc3-bbb6-437c-b85e-7c426bc03ea5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e8cf317-5d5c-413a-b5ae-350cbfc444ad")
 			(effects
 				(font
 					(size 1 1)
@@ -13870,7 +15915,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13879,6 +15924,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b6ce793-7ebd-4414-88d5-22556a5d82d8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13977,7 +16035,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13993,6 +16051,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "92e4f957-9eb2-4769-8b54-19ad6c9ea808")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c0a113f-dc61-4383-91d8-2c90df202c2a")
 			(effects
 				(font
 					(size 1 1)
@@ -14135,7 +16206,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14411,7 +16482,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14419,6 +16490,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "badd99fa-fc05-4b19-9c93-e9abe65d2e2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14593,7 +16677,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14604,7 +16688,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14620,6 +16704,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "16c10c87-2c26-45d2-ba60-823179da2d80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6156fa87-67c3-4a8c-8750-1a0713122d90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0eb3813-7f9f-4be2-a7ee-2eef3c99e275")
 			(effects
 				(font
 					(size 1 1)
@@ -14988,7 +17098,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14996,6 +17106,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6a21637-2a00-42d6-be26-96988c834c39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15181,7 +17304,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15197,6 +17320,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0df0ff07-4c12-4a19-a216-109bedf1ee40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b454431-a2e6-4686-973f-a86fffb8ec5c")
 			(effects
 				(font
 					(size 1 1)
@@ -15339,7 +17475,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15355,6 +17491,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a93a1406-dd81-4550-ae35-a8ab21099ed0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5625ced-f474-4ec5-bd39-eae815a425f9")
 			(effects
 				(font
 					(size 1 1)
@@ -15497,7 +17646,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15513,6 +17662,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "49465d1a-80e9-4ea7-ae90-3ed8e1416ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "869d080f-7d24-4c5c-ad5c-2e0210d595c1")
 			(effects
 				(font
 					(size 1 1)
@@ -15655,7 +17817,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15671,6 +17833,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "727826e7-3e6a-44ee-9f77-2f8c2cc8f5a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01ee848e-0720-4e3b-bb95-3e3eef3b880f")
 			(effects
 				(font
 					(size 1 1)
@@ -15813,7 +17988,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15829,6 +18004,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "75f09523-1f9f-4623-a2fa-4723318eea5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d02e825-5100-4dcf-8a81-7eace7e4b4e5")
 			(effects
 				(font
 					(size 1 1)
@@ -15971,7 +18159,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15987,6 +18175,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bdabf14e-e744-4370-b8be-db5c5952208c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2252f38b-476a-445b-8ebe-1b7847047e4b")
 			(effects
 				(font
 					(size 1 1)
@@ -16120,7 +18321,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170KRKT.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16131,7 +18332,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Standard LEDs - SMD Red Clear 631nm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16139,6 +18340,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18c4b6fd-e8e9-42d9-9005-b4ce915d06db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71782f46-c3b5-4369-b478-10cc2a1b70c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb000bdd-f434-4a00-98ed-5b3828f6b097")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7891c1a6-03a5-4202-a274-e55bd1a71458")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2509c2dc-329e-4491-9137-b53db66b147c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170KRKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d15262e-8daf-4620-9fbc-a8a3c76ac081")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170krkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec115c9e-b4d8-41d3-b00a-b897ef62bdb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16356,7 +18648,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16365,6 +18657,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f174ace-fb79-4212-bc07-064fc401f522")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16463,7 +18768,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16479,6 +18784,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b9890d6e-2c0e-4ace-b7d7-30a8b77af92f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f57cb0a-2b81-454d-8937-1be8f37c4f9a")
 			(effects
 				(font
 					(size 1 1)
@@ -16612,7 +18930,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170TBKT.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16623,7 +18941,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED,SMD,0805,Blue,28mcd,130deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16631,6 +18949,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba0ba75b-5d11-4ca4-94c3-e991e5b5aac6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2d621c7-3e34-4668-a048-31ed29eefe13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170TBKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d357b479-b20c-4300-a9ce-b216be65061c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170TBKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6fb94a83-fbf5-46ed-bb6c-3c4df6506341")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170TBKT?qs=0uL0gcxEMop2ooGmIUzw3A%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7ed1bfc-e06e-416b-a714-d85749205263")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170TBKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af9e6190-7471-41d3-8de7-80de992526d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170tbkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90611701-0341-40b5-b544-ec31f5d4f3b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16846,7 +19255,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16862,6 +19271,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fbc70a96-94c5-401b-87fb-c028bd53f0d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e52cd79-08b3-442e-806d-065a5a42fe52")
 			(effects
 				(font
 					(size 1 1)
@@ -17004,7 +19426,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17020,6 +19442,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "25e23ad0-e732-4e9e-a774-e1c94d7328f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4e9e93f-2a13-4c8b-aeff-014312953329")
 			(effects
 				(font
 					(size 1 1)
@@ -17160,7 +19595,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17168,6 +19603,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30a5a693-8170-44dd-9176-eece5cd69b44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USLPT2819DT2TR/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ec9b055-e937-4c8a-97fa-c57b0926fd21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e43087e7-db7e-4248-8e51-d669833390b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "234620f0-f126-449b-9e22-c2dbfc033fce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USLPT2819DT2TR/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e62917ee-8c1c-4864-9a78-3571816ef9e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "USLPT2819DT2TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c51f27f-2fd6-4679-9b2f-ab7d59d3b109")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f77c052-db7d-408b-b664-1c0395a32f85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17441,7 +19967,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17457,6 +19983,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "891ba2a8-32a3-47fd-b9ce-b8f3216ea664")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ce54724-2c63-49bd-bee6-6059c1b1495e")
 			(effects
 				(font
 					(size 1 1)
@@ -17599,7 +20138,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x04, script generated"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17862,7 +20401,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17878,6 +20417,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "750da0b1-3ccf-4710-8562-370734eb4aa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "833abf78-9058-46e5-a853-da821a0bd494")
 			(effects
 				(font
 					(size 1 1)
@@ -18019,7 +20571,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Board Mount Humidity Sensors MEMS humidity, pressure and temperature sensor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18027,6 +20579,110 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Bosch"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60ab1980-76ad-450c-9441-c26770ac85a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PACKAGE" "LGA-8 Bosch"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f3459b2-db1a-4e53-a16b-ec05f40c0e18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PRICE" "4.94 USD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5feaabf2-589d-4277-a9ad-ad5f2c3a3cf9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BME280/Bosch+Sensortec/view-part/?ref=eda"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f11916a0-a88c-41c5-b3f8-77f686cbd5a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5b6cb85-b90a-4887-8799-41b9f600d212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BME280/Bosch+Sensortec/view-part/?ref=snap"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75d7eb2a-4402-49c3-9521-efd355c602c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "BME280"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb532e7f-f8e3-4825-8bbf-cb82edf16a8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff2f2ebf-e41a-4a68-be16-decb7cb6a7b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18290,7 +20946,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Amplifier IC 1-Channel (Mono) Class AB SC-70-5"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18298,6 +20954,58 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Analog Devices"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cdf66a3-a624-4850-b212-29d4aa132f9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MAX4466EXK/Analog+Devices/view-part/?ref=snap"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c5b0e40-86d4-4905-972d-83ff7dddd685")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "MAX4466EXK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8d2936f-c1de-4bd3-a559-5d8411176baf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/MAX4466EXK/Analog+Devices/view-part/?ref=eda"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ba5b3f9-9458-480e-9283-1e4512a84d64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18632,7 +21340,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18648,6 +21356,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fc187f38-32b4-427c-8f6a-54d150bbf1a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a6bae12-65a3-4401-b0e6-d5ee7aeab7aa")
 			(effects
 				(font
 					(size 1 1)
@@ -18790,7 +21511,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18806,6 +21527,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "389b5fa4-293b-45ec-8084-69bc359c82ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ed6f097-4abe-4245-91c4-a31f23af8291")
 			(effects
 				(font
 					(size 1 1)
@@ -21178,6 +23912,158 @@
 		(uuid "3522a7d6-2f5f-4970-933b-b4bc37a9307c")
 	)
 	(segment
+		(start 220.3196 126.4412)
+		(end 220.3196 125.73)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "084a312b-4db5-4784-8454-76b84b8bbf32")
+	)
+	(segment
+		(start 220.3196 125.73)
+		(end 219.8116 125.222)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "40003d99-6f1f-4e06-8ac1-9a60e9d348c7")
+	)
+	(segment
+		(start 213.9465 128.0945)
+		(end 213.995 128.143)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "68777735-1eb0-4e3a-bbae-bdbeb9e7846c")
+	)
+	(segment
+		(start 194.183 112.141)
+		(end 193.814 112.51)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "6a6a2aae-aa2c-43bd-a412-78d4f049aec5")
+	)
+	(segment
+		(start 193.814 112.51)
+		(end 193.814 113.3088)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "7ef1a05f-e7e1-4bdc-bcf3-2c4d30efc353")
+	)
+	(segment
+		(start 219.8116 125.222)
+		(end 219.136 125.222)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "83e5f77f-3382-4241-a993-ce6aeb52af09")
+	)
+	(segment
+		(start 212.4945 128.0945)
+		(end 213.9465 128.0945)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "eb8b3290-7bbd-4b25-8f8a-ee8d1d507898")
+	)
+	(via
+		(at 194.183 112.141)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "03a04367-8195-40fb-bda4-37012081508e")
+	)
+	(via
+		(at 220.3196 126.4412)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "5be58929-6d3f-4aab-837d-c7f133fd26c5")
+	)
+	(via
+		(at 213.995 128.143)
+		(size 0.5)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "8cceea2b-e9e5-4f48-96be-7d4f9aee78c5")
+	)
+	(segment
+		(start 215.6968 126.4412)
+		(end 215.8492 126.4412)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "06f1fd41-0263-485e-8544-4e3feb2fddad")
+	)
+	(segment
+		(start 214.63 125.222)
+		(end 215.8492 126.4412)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "3a9ff580-3547-4f66-9d92-67088594d8f5")
+	)
+	(segment
+		(start 194.183 112.903)
+		(end 194.564 113.284)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "4e94b607-637f-46eb-b465-282b75e6b758")
+	)
+	(segment
+		(start 215.8492 126.4412)
+		(end 220.3196 126.4412)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "52ab5087-ed3f-4539-9999-df0dcebefbab")
+	)
+	(segment
+		(start 194.564 113.284)
+		(end 195.834 113.284)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "7ec36ce0-6824-4047-8805-938c1ae4f4fa")
+	)
+	(segment
+		(start 207.772 125.222)
+		(end 214.63 125.222)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "831d46cf-b4e6-419d-9c21-b3610d370f19")
+	)
+	(segment
+		(start 213.995 128.143)
+		(end 215.6968 126.4412)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "ac6181df-f25e-4c45-bb22-5d4ceb986956")
+	)
+	(segment
+		(start 195.834 113.284)
+		(end 207.772 125.222)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "d169787e-b7a1-4419-aa2c-98c65a610a03")
+	)
+	(segment
+		(start 194.183 112.141)
+		(end 194.183 112.903)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/ESP32-C3-02/DTR")
+		(uuid "e3a148f4-4ba8-4bdf-9b77-6ad659a2137a")
+	)
+	(segment
 		(start 221.6404 125.7808)
 		(end 219.2066 123.347)
 		(width 0.25)
@@ -21368,158 +24254,6 @@
 		(layer "B.Cu")
 		(net "/ESP32-C3-02/BOOT")
 		(uuid "963966a2-07de-44b5-a669-dce845fd91c9")
-	)
-	(segment
-		(start 220.3196 126.4412)
-		(end 220.3196 125.73)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "084a312b-4db5-4784-8454-76b84b8bbf32")
-	)
-	(segment
-		(start 220.3196 125.73)
-		(end 219.8116 125.222)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "40003d99-6f1f-4e06-8ac1-9a60e9d348c7")
-	)
-	(segment
-		(start 213.9465 128.0945)
-		(end 213.995 128.143)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "68777735-1eb0-4e3a-bbae-bdbeb9e7846c")
-	)
-	(segment
-		(start 194.183 112.141)
-		(end 193.814 112.51)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "6a6a2aae-aa2c-43bd-a412-78d4f049aec5")
-	)
-	(segment
-		(start 193.814 112.51)
-		(end 193.814 113.3088)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "7ef1a05f-e7e1-4bdc-bcf3-2c4d30efc353")
-	)
-	(segment
-		(start 219.8116 125.222)
-		(end 219.136 125.222)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "83e5f77f-3382-4241-a993-ce6aeb52af09")
-	)
-	(segment
-		(start 212.4945 128.0945)
-		(end 213.9465 128.0945)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "eb8b3290-7bbd-4b25-8f8a-ee8d1d507898")
-	)
-	(via
-		(at 194.183 112.141)
-		(size 0.5)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "03a04367-8195-40fb-bda4-37012081508e")
-	)
-	(via
-		(at 220.3196 126.4412)
-		(size 0.5)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "5be58929-6d3f-4aab-837d-c7f133fd26c5")
-	)
-	(via
-		(at 213.995 128.143)
-		(size 0.5)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "8cceea2b-e9e5-4f48-96be-7d4f9aee78c5")
-	)
-	(segment
-		(start 215.6968 126.4412)
-		(end 215.8492 126.4412)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "06f1fd41-0263-485e-8544-4e3feb2fddad")
-	)
-	(segment
-		(start 214.63 125.222)
-		(end 215.8492 126.4412)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "3a9ff580-3547-4f66-9d92-67088594d8f5")
-	)
-	(segment
-		(start 194.183 112.903)
-		(end 194.564 113.284)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "4e94b607-637f-46eb-b465-282b75e6b758")
-	)
-	(segment
-		(start 215.8492 126.4412)
-		(end 220.3196 126.4412)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "52ab5087-ed3f-4539-9999-df0dcebefbab")
-	)
-	(segment
-		(start 194.564 113.284)
-		(end 195.834 113.284)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "7ec36ce0-6824-4047-8805-938c1ae4f4fa")
-	)
-	(segment
-		(start 207.772 125.222)
-		(end 214.63 125.222)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "831d46cf-b4e6-419d-9c21-b3610d370f19")
-	)
-	(segment
-		(start 213.995 128.143)
-		(end 215.6968 126.4412)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "ac6181df-f25e-4c45-bb22-5d4ceb986956")
-	)
-	(segment
-		(start 195.834 113.284)
-		(end 207.772 125.222)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "d169787e-b7a1-4419-aa2c-98c65a610a03")
-	)
-	(segment
-		(start 194.183 112.141)
-		(end 194.183 112.903)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/ESP32-C3-02/DTR")
-		(uuid "e3a148f4-4ba8-4bdf-9b77-6ad659a2137a")
 	)
 	(segment
 		(start 171.588 103.124)
